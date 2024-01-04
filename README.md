@@ -13,3 +13,4 @@ To enhance the disentanglement of motion and appearance, we propose an innovativ
 During training, a frozen base model provides appearance normalization, effectively separating appearance from motion and thereby preserving diversity.
 Comprehensive quantitative and qualitative experiments, along with user preference tests, demonstrate that MotionCrafter can successfully integrate dynamic motions while preserving the coherence and quality of the base model with a wide range of appearance generation capabilities.
 For details see the [paper](http://arxiv.org/abs/2312.05288) 
+For examples see the [project page](https://zyxelsa.github.io/homepage-motioncrafter/).
